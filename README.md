@@ -87,3 +87,4 @@ display_IRS(ms)
 ```
 
 results in:
+![IRS_img](https://user-images.githubusercontent.com/42641926/111514583-2acbcf00-8752-11eb-9b04-654012d2394c.png)
