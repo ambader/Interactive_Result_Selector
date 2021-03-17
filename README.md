@@ -1,5 +1,5 @@
 # Interactive_Result_Selector
-Select HCrystalBall Partitions in Jupyter
+Select ![HCrystalBall](https://github.com/heidelbergcement/hcrystalball) Partitions in Jupyter
 
 Create Sample with HCrystalBall
 ```python
@@ -25,7 +25,7 @@ ms.select_model(df=df, target_col_name="Quantity", partition_columns=["Region", 
 
 ```
 
-load code from file
+load code from file ![int_res_sel.py](https://github.com/ambader/Interactive_Result_Selector/blob/main/int_res_sel.py)
 ```python
 import ipywidgets as widgets
 from IPython.display import display,clear_output
