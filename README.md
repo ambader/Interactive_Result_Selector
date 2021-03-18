@@ -1,6 +1,8 @@
 # Interactive_Result_Selector
 Select ![HCrystalBall](https://github.com/heidelbergcement/hcrystalball) Partitions in Jupyter
 
+![IRS_show](https://user-images.githubusercontent.com/42641926/111581970-74e89b00-87ba-11eb-9123-9810efcf10de.gif)
+
 Create Sample with HCrystalBall
 ```python
 from hcrystalball.utils import generate_tsdata
